@@ -7,6 +7,16 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Adjust author avatar size in the sidebar */
 .author__avatar img {
-  min-width: 100%;
+  max-width: 200px; /* Default is usually 80px-110px */
+  width: 100%;
+  height: auto;
+}
+
+/* Optional: Center the image if it becomes wider than the container */
+.author__avatar {
+  display: block;
+  margin-bottom: 10px;
 }
