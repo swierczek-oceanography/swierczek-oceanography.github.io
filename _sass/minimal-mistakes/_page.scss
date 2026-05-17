@@ -33,7 +33,7 @@ body {
   flex: 1 0 auto;
 }
 
-/*.page {
+.page {
   @include breakpoint($large) {
     float: inline-end;
     width: 100%;
@@ -43,15 +43,7 @@ body {
   @include breakpoint($x-large) {
     width: 100%;
     padding-inline-end: 0;
-  }*/
-
-.page {
-@include breakpoint($large){
-  padding-right: 0;
-}
-@include breakpoint($x-large){
-  padding-right: 0;
-}
+  }
 
 
   .page__inner-wrap {
