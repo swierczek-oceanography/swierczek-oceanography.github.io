@@ -12,4 +12,3 @@ I am a model risk analyst at M&T Bank. I received a PhD in applied mathematics f
 
 <img src="/images/figure_with_meat.jpg">
 
-
