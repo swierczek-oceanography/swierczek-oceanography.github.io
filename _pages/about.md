@@ -4,6 +4,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
