@@ -7,6 +7,6 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-.archive, .page, .single {
-  max-width: 100%; /* or a specific width like 1600px */
+.page {
+  padding-right: 0 !important;
 }
