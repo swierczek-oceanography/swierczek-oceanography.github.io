@@ -116,14 +116,14 @@ analytics:
 # Site Author
 author:
   name             : "Stan Swierczek"
-  avatar           : "image/profile_gs.jpg"
+  avatar           : "profile_gs.jpg"
   bio              : "Model Risk Analyst, M&T Bank"
   location         : "New Mexico"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
-      icon: "image/fish_01.jpeg"
+      icon: "fish_01.jpeg"
       url: "mailto:stan@swierczek.one"
     - label: "Website"
       icon: "fas fa-fw fa-link"
