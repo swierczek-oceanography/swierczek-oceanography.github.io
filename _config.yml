@@ -116,7 +116,7 @@ analytics:
 # Site Author
 author:
   name             : "Stan Swierczek"
-  avatar           : "profile_gs.jpg"
+  avatar           : "/images/profile_gs.jpg"
   bio              : "Model Risk Analyst, M&T Bank"
   location         : "New Mexico"
   email            :
@@ -132,14 +132,14 @@ author:
       # icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"
     - label: "ORCID"
-      icon: "fab fa-fw fa-square-facebook"
+      icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-8833-5053"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/swierczek-oceanography"
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=9Xxjf28AAAAJ&hl=en&authuser=1&oi=ao"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/swierczek-oceanography"
 
 # Site Footer
 footer:
